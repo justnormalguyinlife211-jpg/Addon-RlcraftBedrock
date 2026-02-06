@@ -1,2 +1,4 @@
 pack.name=RLCraft Bedrock Behavior Pack
 pack.description=Behavior pack for the RLCraft-style Bedrock addon.
+
+item.asr.fire_sword.name=Fire Sword

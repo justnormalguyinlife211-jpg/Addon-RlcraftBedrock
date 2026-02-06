@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "RLCraft Bedrock Resource Pack",
+    "description": "Tài nguyên giao diện/chữ cho addon chủ đề RLCraft.",
+    "uuid": "2fb3d5f6-657b-4b06-a780-8a60ab5de715",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9bdb5fc5-e155-4a5f-9a47-46b0e6341695",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Addon-RlcraftBedrock"],
+    "license": "MIT"
+  }
+}

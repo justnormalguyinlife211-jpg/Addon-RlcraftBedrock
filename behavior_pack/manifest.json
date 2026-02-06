@@ -1,0 +1,27 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "RLCraft Bedrock Behavior Pack",
+    "description": "Hành vi gameplay cho addon chủ đề RLCraft.",
+    "uuid": "a4d1d78f-fedc-406f-80dd-64ef0f34afbf",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "3a962ef9-d909-4578-a69a-25a6b7ecd7e3",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "2fb3d5f6-657b-4b06-a780-8a60ab5de715",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Addon-RlcraftBedrock"],
+    "license": "MIT"
+  }
+}

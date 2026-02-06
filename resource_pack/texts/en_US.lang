@@ -3,3 +3,5 @@ pack.description=Resource pack for the RLCraft-style Bedrock addon.
 
 loadingtip.rlcraft.1=Survive first, explore later.
 loadingtip.rlcraft.2=Keep water, food, and shelter ready at all times.
+
+item.asr.fire_sword.name=Fire Sword
